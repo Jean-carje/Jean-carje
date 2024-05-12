@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?Jean-carje&color=blueviolet)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
