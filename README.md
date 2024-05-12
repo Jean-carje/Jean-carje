@@ -1,6 +1,8 @@
 <h2 align="center">👋 Hi there</h2>
 
-![](https://komarev.com/ghpvc/?Jean-carje)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?Jean-carje&color=blueviolet"/> 
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
