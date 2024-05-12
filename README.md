@@ -47,3 +47,5 @@ english = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jean-carje&show_icons=true&theme=dark&locale=en&layout=compact" alt="jean-carje" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jean-carje&show_icons=true&theme=dark&locale=en" alt="jean-carje" /></p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
