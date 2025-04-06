@@ -19,7 +19,7 @@ english = {
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jean-carje](https://github.com/Jean-carje)
 
-- 💬 Ask me about **python and art**
+- 💬 Ask me about **python, science and art**
 
 - 📫 How to reach me **ctarriba9@gmail.com**
 
